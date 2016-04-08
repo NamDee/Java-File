@@ -1,5 +1,5 @@
-# Java-File
-30-Days Commit :)
+//# Java-File
+//30-Days Commit :)
 //The project stuff... Only Partially true.
 import java.util.*;
 
